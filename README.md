@@ -21,7 +21,7 @@
 
 
 ## 🤝 Consulting / Coaching
-Stuck with some problem? Need help in solution development, guidance, or capability building? I am a Full Stack Engineer turned Project Manager with years of technical and leadership experience in a diverse range of technologies and domains. Let me know what your problem you are facing at <b>haris.muneer5@gmail.com</b> and we can schedule a consultation meeting to help you get through it.
+Stuck with some problem? Need help in solution development, guidance, training or capacity building? I am a Full Stack Engineer turned Project Manager with years of technical and leadership experience in a diverse range of technologies and domains. Let me know what problem you are facing at <b>haris.muneer5@gmail.com</b> and we can schedule a consultation meeting to help you get through it.
 
 ## 👨‍💻 Technical Skills & Expertise
 
