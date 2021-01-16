@@ -8,6 +8,12 @@
 
 <hr>
 
+## Technical Skills & Expertise
+
+- Development of Web Applications, Mobile Applications and Desktop Applications
+- Development of Machine Learning/Deep Learning models and deployment 
+- Web Scraping, Browser Automation, Python Scripting
+
 ## Tools & Technologies Used
 
 <!--
