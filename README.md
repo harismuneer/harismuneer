@@ -8,13 +8,16 @@
 
 <hr>
 
-## Technical Skills & Expertise
+## 🤝 Consulting
+Stuck with some problem? Need help in solution development or capability building? I am a Full Stack Engineer turned Project Manager with years of technical and leadership experience. Let me know what your problem is at <b>haris.muneer5@gmail.com</b> and we can schedule a consultation session to help you get through it.
+
+## 👨‍💻 Technical Skills & Expertise
 
 - Development of Web Applications, Mobile Applications and Desktop Applications
 - Development of Machine Learning/Deep Learning models and deployment 
 - Web Scraping, Browser Automation, Python Scripting
 
-## Tools & Technologies Used
+## ⚙️ Tools & Technologies Used
 
 <!--
 <p align="left">
