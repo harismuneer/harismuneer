@@ -9,6 +9,12 @@
 <hr>
 
 ## Tools & Technologies Used
+
+<p align="left">
+ <a href="#"><img titl="Tools and Technologies Haris worked on" src="https://user-images.githubusercontent.com/30947706/104809065-5c84f000-580c-11eb-85c8-1949891256ae.PNG"/></a>
+</p>
+
+<!--
 <p align="left">
 <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
@@ -45,6 +51,7 @@
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
+-->
 
 <h2 align="left"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/connect.png" width="25"/> Connect</h2>
 <p align="left">
