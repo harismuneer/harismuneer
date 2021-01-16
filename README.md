@@ -6,6 +6,8 @@
 
 ### Ceator of <a href="https://github.com/harismuneer/Ultimate-Facebook-Scraper">Ultimate Facebook Scraper</a> (one of the best softwares to extract Facebook data for research & analysis) 
 
+<hr>
+
 <h2 align="left"><img src="https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/connect.png" width="25"/> Connect</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/harismuneer//"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
