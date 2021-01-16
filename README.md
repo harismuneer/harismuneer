@@ -4,7 +4,7 @@
  <a href="https://github.com/harismuneer/Ultimate-Facebook-Scraper"><img align="right" src="https://user-images.githubusercontent.com/30947706/79588950-17515780-80ee-11ea-8f66-e26da49fa052.png" alt="Ultimate Facebook Scraper (UFS)" width="200"/></a> - Maker of Things</h1> 
 
 
-### Ceator of <a href="https://github.com/harismuneer/Ultimate-Facebook-Scraper">Ultimate Facebook Scraper</a> (one of the best softwares to extract Facebook data for research & analysis) 
+### Creator of <a href="https://github.com/harismuneer/Ultimate-Facebook-Scraper">Ultimate Facebook Scraper</a> (one of the best software to extract Facebook data for research & analysis) 
 
 <hr>
 
@@ -21,12 +21,12 @@
 
 
 ## 🤝 Consulting / Coaching
-Stuck with some problem? Need help in solution development, guidance or capability building? I am a Full Stack Engineer turned Project Manager with years of technical and leadership experience in a diverse range of technologies. Let me know what your problem is at <b>haris.muneer5@gmail.com</b> and we can schedule a consultation session to help you get through it.
+Stuck with some problem? Need help in solution development, guidance, or capability building? I am a Full Stack Engineer turned Project Manager with years of technical and leadership experience in a diverse range of technologies. Let me know what your problem is at <b>haris.muneer5@gmail.com</b> and we can schedule a consultation session to help you get through it.
 
 ## 👨‍💻 Technical Skills & Expertise
 
-- Development of Web Applications, Mobile Applications and Desktop Applications
-- Development of Machine Learning/Deep Learning models and deployment 
+- Development of Web Applications, Mobile Applications, and Desktop Applications
+- Development of Machine Learning/Deep Learning models, and deployment 
 - Web Scraping, Browser Automation, Python Scripting
 
 ## ⚙️ Tools & Technologies Used
