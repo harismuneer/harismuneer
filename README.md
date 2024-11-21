@@ -7,14 +7,14 @@
  </h1>
 </div>
 
-- <b>🌟 Founder of Cyfy Labs:</b> At <a href="https://www.cyfylabs.com">Cyfy Labs</a>, we specialize in advanced social media scraping tools to help businesses, researchers, and marketers extract actionable data from platforms like Facebook, Instagram, and X (formerly Twitter). Our tools support lead generation, sentiment analysis, market research, and more.
+- <b>🌟 Founder of Cyfy Labs:</b> At <a href="https://www.cyfylabs.com">Cyfy Labs</a>, we provide advanced social media scraping tools to help businesses, researchers, and marketers extract actionable data from platforms like Facebook, Instagram, and X (formerly Twitter). Our tools support lead generation, sentiment analysis, market research, and various other use-cases.
 
-- <b>⚡ Open Source Projects:</b> I’m passionate about making tech accessible. I’ve open-sourced several projects that you can explore on my <a href="https://github.com/harismuneer">GitHub</a> and on the <a href="https://github.com/OSSpk">Open Source Software PK</a> page.
+- <b>⚡ Open Source Advocate:</b> I’m passionate about making tech accessible to everyone. I’ve open-sourced several projects that you can explore on my <a href="https://github.com/harismuneer">GitHub</a> and on the <a href="https://github.com/OSSpk">Open Source Software PK</a> page.
 
-- <b>📫 Reach Me At:</b> You can learn more about my skills and work at <a href="https://www.linkedin.com/in/harismuneer">LinkedIn</a> and message me there. You can also reach me via <a href="mailto:haris.muneer5@gmail.com">email</a>.
+- <b>📫 How to Reach Me:</b> You can learn more about my skills and work at <a href="https://www.linkedin.com/in/harismuneer">LinkedIn</a> and send me a message there. You can also reach out via <a href="mailto:haris.muneer5@gmail.com">email</a> for collaboration or inquiries.
 
 <hr>
-<h2 align="left">📲 Follow my journey</h2>
+<h2 align="left">🤝 Follow my journey</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/harismuneer"><img title="Follow Haris Muneer on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/harismuneer"><img title="Follow Haris Muneer on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
