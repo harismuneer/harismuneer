@@ -11,7 +11,7 @@
 
 - <b>⚡ Open Source Advocate:</b> I’m passionate about making tech accessible. I’ve open-sourced several projects that you can explore on my <a href="https://github.com/harismuneer">GitHub</a> and on the <a href="https://github.com/OSSpk">Open Source Software PK</a> page.
 
-- <b>📫 How to Reach Me:</b> You can learn more about my skills and latest engagements at <a href="https://www.linkedin.com/in/harismuneer">LinkedIn</a> and send me a message there. You can also reach out via <a href="mailto:haris.muneer5@gmail.com">email</a> for collaboration or inquiries.
+- <b>📫 How to Reach Me:</b> You can learn more about my skills and latest engagements at <a href="https://www.linkedin.com/in/harismuneer">LinkedIn</a>. You can also reach out via <a href="mailto:haris.muneer5@gmail.com">email</a> for collaboration or inquiries.
 
 <hr>
 <h2 align="left">🤝 Follow my journey</h2>
