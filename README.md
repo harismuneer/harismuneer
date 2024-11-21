@@ -12,9 +12,9 @@
 
 - <b>⚡ Open Source Projects:</b> I’m passionate about making tech accessible. I’ve open-sourced several projects that you can explore on my <a href="https://github.com/harismuneer">GitHub</a> and on the <a href="https://github.com/OSSpk">Open Source Software Pakistan</a> page.
 
-- <b>📫 Reach Me At:</b> I’m active on <a href="https://www.linkedin.com/in/harismuneer">LinkedIn</a>, where you can learn more about my work and connect with me. You can also reach me via <a href="mailto:haris.muneer5@gmail.com">email</a> for inquiries or collaboration.
+- <b>📫 Reach Me At:</b> You can learn more about my skills and work at <a href="https://www.linkedin.com/in/harismuneer">LinkedIn</a> and message me there. You can also reach me via <a href="mailto:haris.muneer5@gmail.com">email</a>.
 
-
+<hr>
 <h2 align="left">📲 Follow my journey</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/harismuneer"><img title="Follow Haris Muneer on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
