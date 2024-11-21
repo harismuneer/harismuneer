@@ -1,6 +1,7 @@
 
 <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=harismuneer&data=stars,followers,commits&theme=darkmode" alt="GitHub Stats" />
+  <hr>
  <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="28">
   Hey there, I'm <a href="https://www.linkedin.com/in/harismuneer/">Haris Muneer</a>
  </h1>
