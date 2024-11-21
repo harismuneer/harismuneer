@@ -6,8 +6,6 @@
  </h1>
 </div>
 
-<h2>🌱 About me</h2>
-
 - <b>🌟 Founder of Cyfy Labs:</b> At <a href="https://www.cyfylabs.com">Cyfy Labs</a>, we specialize in advanced social media scraping tools to help businesses, researchers, and marketers extract actionable data from platforms like Facebook, Instagram, and X (formerly Twitter). Our tools support lead generation, sentiment analysis, market research, and more.
 
 - <b>⚡ Open Source Projects:</b> I’m passionate about making tech accessible. I’ve open-sourced several projects that you can explore on my <a href="https://github.com/harismuneer">GitHub</a> and on the <a href="https://github.com/OSSpk">Open Source Software Pakistan</a> page.
