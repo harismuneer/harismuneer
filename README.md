@@ -1,8 +1,8 @@
 
 <div align="center">
-  <a href="#" target="_blank"><img src="https://github-widgetbox.vercel.app/api/profile?username=harismuneer&data=stars,followers,commits&theme=darkmode" alt="GitHub Stats" /></a>
+  <a href="" target="_blank"><img src="https://github-widgetbox.vercel.app/api/profile?username=harismuneer&data=stars,followers,commits&theme=darkmode" alt="GitHub Stats" /></a>
   <hr>
- <h1> <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="28"></a>
+ <h1> <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving hand" width="28"></a>
   Hey there, I'm <a href="https://www.linkedin.com/in/harismuneer/">Haris Muneer</a>
  </h1>
 </div>
