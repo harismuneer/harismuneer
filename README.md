@@ -2,8 +2,11 @@
 Hey there, I'm <a href="https://www.linkedin.com/in/harismuneer/">Haris Muneer</a> 👨🏻‍💻
 </h1>
 
+
 <a href="#"><img src="https://img.shields.io/github/stars/harismuneer" alt="Total Github Stars"></a>
 <a href="#"><img src="https://img.shields.io/github/followers/harismuneer" alt="Total Github Followers"></a>
+
+<hr>
 
 - <b>🌟 Founder of Cyfy Labs:</b> At <a href="https://www.cyfylabs.com">Cyfy Labs</a>, we provide advanced social media scraping tools to help businesses, researchers, and marketers extract actionable data from platforms like Facebook, Instagram, and X (formerly Twitter). Our tools support lead generation, sentiment analysis, market research, and various other use cases.
 
@@ -12,6 +15,7 @@ Hey there, I'm <a href="https://www.linkedin.com/in/harismuneer/">Haris Muneer</
 - <b>📫 How to Reach Me:</b> You can learn more about my skills and latest engagements at <a href="https://www.linkedin.com/in/harismuneer">LinkedIn</a>. You can also reach out via <a href="mailto:haris.muneer5@gmail.com">email</a> for collaboration or inquiries. For any Cyfy Labs related queries, please reach out through the <a href="https://www.cyfylabs.com">company website</a>.
 
 <hr>
+
 <h2 align="left">🤝 Follow my journey</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/harismuneer"><img title="Follow Haris Muneer on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
