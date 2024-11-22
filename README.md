@@ -4,7 +4,7 @@ Hey there, I'm <a href="https://www.linkedin.com/in/harismuneer/">Haris Muneer</
 
 
 <a href="#"><img src="https://img.shields.io/github/stars/harismuneer" alt="Total Github Stars"></a>
-<a href="#"><img src="https://img.shields.io/github/followers/harismuneer" alt="Total Github Followers"></a>
+<a href="https://github.com/harismuneer?tab=followers"><img src="https://img.shields.io/github/followers/harismuneer" alt="Total Github Followers"></a>
 
 <hr>
 
